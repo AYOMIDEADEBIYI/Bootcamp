@@ -1,5 +1,3 @@
-/* FONT FAMILY CDN */
-/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 
@@ -27,9 +25,7 @@ body {
     padding-top: 20%;
 }
 
-/* span {
-    color: rgb(255, 165, 0);
-} */
+
 
 
 /*==== HEADER =====*/
@@ -192,7 +188,6 @@ button {
 .home {
     padding-top: 44%;
     padding-bottom: 15%;
-    /* background-image: linear-gradient(to bottom, rgb(27 28 39 / 52%), rgb(10 9 10 / 73%)), url(/img/IMG_2724-539x303.jpg); */
     background-image: linear-gradient(to left, rgb(27 28 39 / 52%), rgb(3 0 16)), url(/img/IMG_2724-539x303.jpg);
     background-repeat: no-repeat;
     background-position: bottom;
@@ -634,7 +629,7 @@ footer {
 
 
 /*===== SLIDE SHOW =====*/
-.js-scroll {
+/* .js-scroll {
     opacity: 0;
     transition: opacity 500ms;
 }
@@ -694,4 +689,4 @@ footer {
 }
 #tar {
     color: rgb(255, 165, 0);
-}
+} */
